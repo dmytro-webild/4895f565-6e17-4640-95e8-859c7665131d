@@ -64,7 +64,7 @@ export default function GalleryPage() {
         <HeroLogoBillboardSplit
           logoText="Gallery"
           description="Explore the artistry and passion that goes into every dish at Joy's Grill & Burger House."
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[
             {
               text: "See More",
