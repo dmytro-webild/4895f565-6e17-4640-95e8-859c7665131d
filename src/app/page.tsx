@@ -59,7 +59,7 @@ export default function HomePage() {
       borderRadius="soft"
       contentWidth="compact"
       sizing="largeSmallSizeMediumTitles"
-      background="noise"
+      background="circleGradient"
       cardStyle="glass-depth"
       primaryButtonStyle="radial-glow"
       secondaryButtonStyle="layered"
@@ -107,7 +107,7 @@ export default function HomePage() {
               name: "Peanut Butter Burger",
               price: "$14.99",
               variant: "Premium",
-              imageSrc: "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg",
               imageAlt: "Peanut Butter Burger"
             },
             {
@@ -115,7 +115,7 @@ export default function HomePage() {
               name: "Roadhouse Burger",
               price: "$13.99",
               variant: "Classic",
-              imageSrc: "http://img.b2bpic.net/free-photo/classic-meat-burger-with-french-fries-pickles_140725-9488.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/classic-meat-burger-with-french-fries-pickles_140725-9488.jpg",
               imageAlt: "Roadhouse Burger"
             },
             {
@@ -123,7 +123,7 @@ export default function HomePage() {
               name: "Classic Cheeseburger",
               price: "$11.99",
               variant: "Original",
-              imageSrc: "http://img.b2bpic.net/free-photo/burger-with-tomatoes-pickles-lettuce-cheese_141793-532.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/burger-with-tomatoes-pickles-lettuce-cheese_141793-532.jpg",
               imageAlt: "Classic Cheeseburger"
             },
             {
@@ -131,7 +131,7 @@ export default function HomePage() {
               name: "Loaded Fries",
               price: "$8.99",
               variant: "Premium Sides",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg?_wi=1",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg",
               imageAlt: "Loaded Fries with Cheese"
             }
           ]}

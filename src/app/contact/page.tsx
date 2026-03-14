@@ -54,7 +54,7 @@ const ContactPage = () => {
       borderRadius="soft"
       contentWidth="compact"
       sizing="largeSmallSizeMediumTitles"
-      background="noise"
+      background="circleGradient"
       cardStyle="glass-depth"
       primaryButtonStyle="radial-glow"
       secondaryButtonStyle="layered"
@@ -77,7 +77,7 @@ const ContactPage = () => {
           buttons={[{ text: "Contact Info", href: "#contact" }]}
           buttonAnimation="slide-up"
           layoutOrder="reverse"
-          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg?_wi=3"
+          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg"
           imageAlt="Contact us at Joy's Grill"
           mediaAnimation="slide-up"
           frameStyle="card"
