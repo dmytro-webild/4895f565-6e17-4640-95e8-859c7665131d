@@ -65,7 +65,7 @@ export default function AboutPage() {
         <HeroLogoBillboardSplit
           logoText="About Joy's Grill"
           description="Learn the story behind our passion for perfect burgers and exceptional service."
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[
             {
               text: "Our Story",
