@@ -55,7 +55,7 @@ const ReviewsPage = () => {
       borderRadius="soft"
       contentWidth="compact"
       sizing="largeSmallSizeMediumTitles"
-      background="noise"
+      background="circleGradient"
       cardStyle="glass-depth"
       primaryButtonStyle="radial-glow"
       secondaryButtonStyle="layered"
@@ -78,7 +78,7 @@ const ReviewsPage = () => {
           buttons={[{ text: "Our Testimonials", href: "#reviews" }]}
           buttonAnimation="slide-up"
           layoutOrder="default"
-          imageSrc="http://img.b2bpic.net/free-photo/smiley-friends-restaurant-together_23-2148395393.jpg?_wi=2"
+          imageSrc="http://img.b2bpic.net/free-photo/smiley-friends-restaurant-together_23-2148395393.jpg"
           imageAlt="Happy customers enjoying food"
           mediaAnimation="slide-up"
           frameStyle="card"
