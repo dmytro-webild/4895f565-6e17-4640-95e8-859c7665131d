@@ -74,7 +74,7 @@ const ReviewsPage = () => {
         <HeroLogoBillboardSplit
           logoText="Customer Reviews"
           description="Loved by 382+ happy customers with a 4.9 star rating. Read what people are saying about Joy's Grill & Burger House."
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[{ text: "Our Testimonials", href: "#reviews" }]}
           buttonAnimation="slide-up"
           layoutOrder="default"
