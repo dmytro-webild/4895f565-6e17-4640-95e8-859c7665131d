@@ -92,7 +92,7 @@ export default function GalleryPage() {
               excerpt:
                 "Each burger is an art form. Hand-selected beef, perfectly grilled, topped with premium ingredients.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg",
+                "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg?_wi=3",
               imageAlt: "Signature Burger",
               authorName: "Joy's Team",
               authorAvatar:
@@ -106,7 +106,7 @@ export default function GalleryPage() {
               excerpt:
                 "Golden fries and crispy onion rings that complement every burger perfectly.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg",
+                "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg?_wi=3",
               imageAlt: "Loaded Fries",
               authorName: "Joy's Team",
               authorAvatar:
@@ -134,7 +134,7 @@ export default function GalleryPage() {
               excerpt:
                 "Fresh ingredients prepared with care and expertise by our skilled team.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/man-holds-burger-with-hands-potato-chip_1150-1863.jpg",
+                "http://img.b2bpic.net/free-photo/man-holds-burger-with-hands-potato-chip_1150-1863.jpg?_wi=2",
               imageAlt: "Kitchen Preparation",
               authorName: "Joy's Team",
               authorAvatar:
@@ -148,7 +148,7 @@ export default function GalleryPage() {
               excerpt:
                 "A friendly, clean, and comfortable space where families and friends gather to enjoy great food.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg",
+                "http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg?_wi=2",
               imageAlt: "Restaurant Interior",
               authorName: "Joy's Team",
               authorAvatar:
@@ -162,7 +162,7 @@ export default function GalleryPage() {
               excerpt:
                 "Serving smiles and satisfaction to our community, one burger at a time.",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/smiley-friends-restaurant-together_23-2148395393.jpg",
+                "http://img.b2bpic.net/free-photo/smiley-friends-restaurant-together_23-2148395393.jpg?_wi=1",
               imageAlt: "Happy Customers",
               authorName: "Joy's Team",
               authorAvatar:
