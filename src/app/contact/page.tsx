@@ -77,7 +77,7 @@ const ContactPage = () => {
           buttons={[{ text: "Contact Info", href: "#contact" }]}
           buttonAnimation="slide-up"
           layoutOrder="reverse"
-          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg?_wi=3"
           imageAlt="Contact us at Joy's Grill"
           mediaAnimation="slide-up"
           frameStyle="card"

@@ -82,7 +82,7 @@ export default function MenuPage() {
           ]}
           buttonAnimation="slide-up"
           layoutOrder="default"
-          imageSrc="http://img.b2bpic.net/free-photo/man-holds-burger-with-hands-potato-chip_1150-1863.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/man-holds-burger-with-hands-potato-chip_1150-1863.jpg?_wi=1"
           imageAlt="Fresh burger preparation"
           mediaAnimation="slide-up"
           frameStyle="card"
@@ -99,7 +99,7 @@ export default function MenuPage() {
               name: "Peanut Butter Burger",
               price: "$14.99",
               variant: "Premium Specialty",
-              imageSrc: "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/hamburger-with-black-bun-blue-background_23-2148258531.jpg?_wi=2",
               imageAlt: "Peanut Butter Burger"
             },
             {
@@ -107,7 +107,7 @@ export default function MenuPage() {
               name: "Roadhouse Burger",
               price: "$13.99",
               variant: "Classic",
-              imageSrc: "http://img.b2bpic.net/free-photo/classic-meat-burger-with-french-fries-pickles_140725-9488.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/classic-meat-burger-with-french-fries-pickles_140725-9488.jpg?_wi=2",
               imageAlt: "Roadhouse Burger"
             },
             {
@@ -115,7 +115,7 @@ export default function MenuPage() {
               name: "Classic Cheeseburger",
               price: "$11.99",
               variant: "Original",
-              imageSrc: "http://img.b2bpic.net/free-photo/burger-with-tomatoes-pickles-lettuce-cheese_141793-532.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/burger-with-tomatoes-pickles-lettuce-cheese_141793-532.jpg?_wi=2",
               imageAlt: "Classic Cheeseburger"
             }
           ]}
@@ -144,7 +144,7 @@ export default function MenuPage() {
               name: "Loaded Fries",
               price: "$8.99",
               variant: "Premium",
-              imageSrc: "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/top-view-french-fries-basket-with-ketchup-board_141793-4001.jpg?_wi=2",
               imageAlt: "Loaded Fries with Cheese & Bacon"
             },
             {
