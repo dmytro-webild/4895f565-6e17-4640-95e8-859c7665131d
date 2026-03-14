@@ -73,7 +73,7 @@ const ContactPage = () => {
         <HeroLogoBillboardSplit
           logoText="Get In Touch"
           description="Have a question or ready to place an order? Contact Joy's Grill & Burger House today. We're always happy to hear from you!"
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[{ text: "Contact Info", href: "#contact" }]}
           buttonAnimation="slide-up"
           layoutOrder="reverse"

@@ -81,7 +81,7 @@ export default function HomePage() {
         <HeroLogoBillboardSplit
           logoText="Joy's Grill & Burger House"
           description="Premium gourmet burgers and grilled specialties crafted with fresh ingredients. Experience the perfect blend of smoky, juicy flavors in every bite. Open daily until 8 PM."
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[
             { text: "View Menu", href: "/menu" },
             { text: "Order Online", href: "/menu" },
