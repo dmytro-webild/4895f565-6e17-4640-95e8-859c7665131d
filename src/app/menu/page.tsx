@@ -76,7 +76,7 @@ export default function MenuPage() {
         <HeroLogoBillboardSplit
           logoText="Our Menu"
           description="Explore our full selection of premium burgers, sides, and refreshing beverages. All items made fresh to order with the finest ingredients."
-          background={{ variant: "noise" }}
+          background={{ variant: "plain" }}
           buttons={[
             { text: "Order Now", href: "#burgers" }
           ]}
