@@ -74,7 +74,7 @@ export default function AboutPage() {
           ]}
           buttonAnimation="slide-up"
           layoutOrder="reverse"
-          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/delicious-burger-fries-with-salad-table_613910-7485.jpg?_wi=1"
           imageAlt="Joy's Grill restaurant interior"
           mediaAnimation="slide-up"
           frameStyle="card"
